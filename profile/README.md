@@ -2,7 +2,7 @@
 FairStack is a reference architecture for scientific data software stack of scientific data centers, with the aim of guiding the construction of a reusable public scientific data software stack to efficiently establish scientific data centers at a high level.
 
 The FairStack Architecure:
-![The FairStack Architecure](./arch.png)
+![The FairStack Architecure](./arch.svg)
 
 FairStack also refers to any public software stack that obays to the above reference architecture. 
 # The Functionality Scope of FairStack
@@ -13,4 +13,4 @@ Popular research paradigms include open science, data-intensive research, also k
 FairStack is designed under the guidance of the *BASE* principles — Basic, Adaptable, Sustainable, and End-to-end. These principles operate incrementally, governing the definition of functionality, interface specifications, system implementation and application construction of the public stack.
 
 The BASE Principles:
-![The BASE Principles:](./base.png)
+![The BASE Principles:](./base-principles.svg)
