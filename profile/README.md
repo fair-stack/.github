@@ -10,7 +10,7 @@ FairStack can serve as the fundamental technical infrastructure for enabling FAI
 
 Popular research paradigms include open science, data-intensive research, also known as the 4th paradigm, AI4Science, and convergence science. They are driving innovation in scientific data management and service methods, imposing higher-level capability requirements on scientific data software stacks. For example, the open science paradigm demands software stacks to support open data sharing, fostering cross-institutional research cooperation and aiding public decision-making following the FAIR (Findable, Accessible, Interoperable, Reusable) Principles. The 4th paradigm necessitates capabilities like heterogeneous data integration and storage, high-performance big data processing, and online data analysis services to address the opportunities and challenges posed by massive scientific data. AI4Science requires software stacks to provide AI (Artificial Intelligence) model training and inference tools, various pre-trained models, and AI-ready data product preparation and management capabilities to support AI-powered domain-specific applications. The convergence science paradigm mandates software stacks not only to enable open sharing of data resources, but also to facilitate researchers in discovering interdisciplinary connections among data. This includes providing panoramic data views and promoting online collaborative data analysis.
 
-# FairStack Modules
+# FairStack Module Prototypes
 | Module | Prototype | Brief Introduction | Demonstration |
 |--------|-----------|--------------------|---------------|
 | AI1    | FairMan   | Distributes and maintenances functional modules and operators in a software store style. | [Link](https://market.casdc.cn) |
