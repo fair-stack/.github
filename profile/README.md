@@ -14,7 +14,7 @@ Popular research paradigms include open science, data-intensive research, also k
 | Module | Prototype | Brief Introduction | Demonstration |
 |--------|-----------|--------------------|---------------|
 | AI1    | FairMan   | Distributes and maintenances functional modules and operators in a software store style. | [Link](https://market.casdc.cn) |
-| AP1    | $\pi$Flow | A big data pipeline processing system built upon Apache Spark and Docker with 100+ operators. | / |
+| AP1    | πFlow | A big data pipeline processing system built upon Apache Spark and Docker with 100+ operators. | / |
 | AM1    | DataSpace | Collects and stores multi-source heterogeneous data in a unified and collaborative manner for scientific research teams. | [Link](http://data.iscr.ac.cn) |
 | AM2    | PandaDB   | A data fusion store system which can call AI models at runtime to extract semantics and correlations of unstructured data. | / |
 | AM4    | OpenCSDB  | A linked data service. | [Link](http://open.csdb.cn) |
